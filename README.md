@@ -1,0 +1,2 @@
+# premium-ice-fest-001-ice-festival-planning-and-logi
+Stop watching your ice festival's budget melt away with last-minute ice orders and sculptor scheduling conflicts.  This Notion template centralizes every moving part of an ice festival—from ice block procurement to sculptor assignments, temperature contingency plans, and vendor coordination. It's the only template built specifically for the unique
